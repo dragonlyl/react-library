@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/preset-env", // 根据不同环境使用不同语法
+        ["@babel/preset-react", { // 识别 jsx语法
+        }]
+    ]
+}
